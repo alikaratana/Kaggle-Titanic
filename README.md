@@ -14,4 +14,17 @@ One of the reasons that the shipwreck led to such loss of life was that there we
 
 In this challenge, we ask you to complete the analysis of what sorts of people were likely to survive. In particular, we ask you to apply the tools of machine learning to predict which passengers survived the tragedy.
 
-For more information about the competition please [click.](https://www.kaggle.com/c/titanic)\n"
+For more information about the competition please [click.](https://www.kaggle.com/c/titanic)"
+
+
+**This repository includes:**
+* A python file which includes some functions for data cleaning, creating new features, mapping and etc.
+* A python file which includes some functions for plotting graphs.
+* A jupyter notebook file to do machine learning !
+* Training and test datasets from Kaggle. For information about datasets click [here.](https://www.kaggle.com/c/titanic/data)
+
+**How to use the repository:**
+* All data munging operations is done by functions.py file. You can add, delete or change functions.
+* Then, use Titanic.ipynb file to use your python files and do your data munging, also to create a model and make submission.
+
+
