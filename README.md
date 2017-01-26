@@ -3,6 +3,7 @@
 This repository has been created for a competition in [Kaggle](https://www.kaggle.com/) website.
 
 Kaggle Test Score: 0.80861
+
 **Information about the competition:**
 
 
